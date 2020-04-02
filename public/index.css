@@ -1,3 +1,31 @@
-img{
-max-width: 100%;
+.inline {
+    display: inline-block;
+}
+
+.center {
+    text-align: center;
+}
+
+.right {
+    text-align: right;
+}
+
+.curve-border-box {
+    border: solid #ccc 1px;
+    border-radius: 3px;
+    margin-bottom: 10px;
+    padding: 14px;
+}
+
+.bg-blue {
+    background-color: #06f;
+}
+
+.inside {
+    max-width: 1024px;
+    margin: auto;
+}
+
+.white {
+    color: white;
 }
